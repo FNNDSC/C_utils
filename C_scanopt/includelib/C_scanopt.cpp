@@ -85,7 +85,7 @@
 #include <algorithm>
 using namespace std;
 
-#include <scanopt.h>
+#include <C_scanopt.h>
 #include <string.h>
 
 //

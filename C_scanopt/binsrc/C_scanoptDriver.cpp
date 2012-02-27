@@ -26,7 +26,7 @@
 
 int main(int argc, char *argv[])
 {
-    C_scanopt   c_opt1("options.txt");
+    C_scanopt   c_opt1("options.txt", e_EquLink);
     C_scanopt   c_opt2("options2.txt", e_EquLink);
     string*     pstr_value;
     bool        b_found = false;
