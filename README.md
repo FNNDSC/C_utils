@@ -1,6 +1,17 @@
-These simple utilities can be used to:
+Simple C++ Utilities
+====================
 
-C_scanopt:		process options files
-C_SMessage:		a messaging class
-C_SSocket:		a datagram socket class
+### C_scanopt ###
+Process options files.
+
+### C_SMessage ###
+A messaging class.
+
+### C_SSocket ###
+A datagram socket class
+
+### trk_file ###
+A TrackVis (.trk) - file reader.
+
+
 
